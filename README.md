@@ -31,8 +31,10 @@
 
 作品照片：
 
-    见images文件夹：
-    外设电路图
-    作品图
-    ![Image text](https://github.com/Leishuqi/---/blob/master/images/作品图片.jpg)
-    作品视频
+    见images文件夹：外设电路图、作品图、作品视频
+
+外设电路
+
+作品图
+
+![Image text](https://github.com/Leishuqi/---/blob/master/images/作品图片.jpg)
