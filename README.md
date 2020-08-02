@@ -35,6 +35,8 @@
 
 外设电路
 
+![Image text](https://github.com/Leishuqi/---/blob/master/images/电路图.png)
+
 作品图
 
 ![Image text](https://github.com/Leishuqi/---/blob/master/images/作品图片.jpg)
