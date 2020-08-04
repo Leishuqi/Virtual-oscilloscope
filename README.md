@@ -13,7 +13,7 @@
     
 板卡型号与外设列表：
 
-    板卡型号：
+    板卡型号：SEA-S7
     外设列表：MB-102面包板电源模块
              LM358P双运算放大直插式
              52DB拾音器咪头
@@ -35,8 +35,8 @@
 
 外设电路
 
-![Image text](https://github.com/Leishuqi/---/blob/master/images/电路图.png)
+![Image text](https://github.com/Leishuqi/Virtual-oscilloscope/blob/master/images/电路图.png)
 
 作品图
 
-![Image text](https://github.com/Leishuqi/---/blob/master/images/作品图片.jpg)
+![Image text](https://github.com/Leishuqi/Virtual-oscilloscope/blob/master/images/作品图片.jpg)
